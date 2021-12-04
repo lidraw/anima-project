@@ -15,4 +15,4 @@
 - финальная редактура текста **55%**
 - **3824%** строчки
 ![alt text](https://github.com/lidraw/anima-proj/blob/main/Walk.gif "Она ходит")
-![alt text](https://github.com/lidraw/anima-proj/blob/main/smile.png "Она улыбается")
+<img src="https://github.com/lidraw/anima-proj/blob/main/smile.png" width="40" height="40" />
