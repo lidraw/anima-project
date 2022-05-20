@@ -2,7 +2,7 @@
 ## Прогресс работы
 - [ ] спрайты
     - [X] скетч
-    - [ ] финал – **100%** ![alt text](https://github.com/lidraw/anima-proj/blob/main/sandra smile.png "Главная героиня")
+    - [ ] финал – **100%** ![alt text]<img src="https://github.com/lidraw/anima-proj/blob/main/sandra.png" width="500">
 - [ ] фоны
     - [X] скетч
     - [ ] финал – **40%** ![alt text](https://github.com/lidraw/anima-proj/blob/main/philately.png "Филателия")
