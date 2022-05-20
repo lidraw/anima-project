@@ -13,5 +13,5 @@
     - [X] (ver 0.7)
     - [X] (ver 1)
 - финальная редактура текста **55%**
-- **3824%** строчки
+- **3824** строчки
 ![alt text](https://github.com/lidraw/anima-proj/blob/main/Walk.gif "Она ходит")
