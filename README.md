@@ -2,7 +2,7 @@
 ## Прогресс работы
 - [ ] спрайты
     - [X] скетч
-    - [X] финал – **100%** <img src="https://github.com/lidraw/anima-proj/blob/main/sandra.png" height="100" width="70">
+    - [X] финал – **100%** <img src="https://github.com/lidraw/anima-proj/blob/main/sandra.png" height="100" width="100">
 - [ ] фоны
     - [X] скетч
     - [ ] финал – **40%** ![alt text](https://github.com/lidraw/anima-proj/blob/main/philately.png "Филателия")
